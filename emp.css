@@ -1,0 +1,43 @@
+globe:before {
+display: semi-block;
+width: 9em;
+font-weight: bold;
+font-size: 170%;
+content: "Country";
+margin: -.85em 0px .35em -.35em;
+padding: .2em .20em;
+background-color: #FF0000;
+}
+globe {
+display: block;
+margin: 2em 1em;
+border: 4px solid #B22222;
+padding: 0px 1em;
+background-color:  #cdf;
+}
+Country {
+display: block;
+margin-bottom: 1.5em;
+}
+name {
+display: block;
+font-weight: bold;
+font-size: 140%;
+}
+areawidth {
+display: block;
+}
+areawidth:before {
+content: "Area width: ";
+}
+area:after {
+content: " million km\B2";
+}
+depth {
+display: block;
+}
+depth:before {
+content: "Mean depth: ";
+}
+depth:after {
+content: " m";
