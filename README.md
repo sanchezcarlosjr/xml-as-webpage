@@ -1,5 +1,5 @@
 # XML as webpage
-This url works [xml](https://sanchezcarlosjr.github.io/xml-as-webpage/employee.xml)
+[xml](https://sanchezcarlosjr.github.io/xml-as-webpage/employee.xml) works
 
 # References
 XML with CSS | How does CSS works in XML with Examples. (2021, July 12). Retrieved from https://www.educba.com/xml-with-css
